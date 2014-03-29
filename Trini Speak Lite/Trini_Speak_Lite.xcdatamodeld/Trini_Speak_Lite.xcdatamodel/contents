@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3396" systemVersion="12F45" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="TriniDict" representedClassName="TriniDict" syncable="YES">
+        <attribute name="aNum" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bLetter" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cCategory" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dTrini" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="eEnglish" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fFav" optional="YES" attributeType="Boolean" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="TriniDict" positionX="160" positionY="192" width="128" height="135"/>
+    </elements>
+</model>
